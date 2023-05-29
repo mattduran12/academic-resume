@@ -14,20 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Student
+role: Doctoral student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Arizona State University
-    url: https://ccj.asu.edu/criminology-criminal-justice-phd
+    url: https://ccj.asu.edu/
+  - name: Center for Violence Prevention and Community Solutions
+    url: https://cvpcs.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policing, broadly, and quantitative research methods.
+bio: I am a doctoral student and adjunct instructor at Arizona State University.
 
 # Interests to show in About widget
 interests:
   - Policing
-  - Legitimacy
+  - Social network analysis
 
 
 # Education to show in About widget
@@ -35,7 +37,7 @@ education:
   courses:
     - course: Ph.D. Criminology & Criminal Justice
       institution: Arizona State University
-      year: 2023-2027
+      year: 2023-*Present*
     - course: M.S. Criminology & Criminal Justice
       institution: University of Texas at El Paso
       year: 2023
@@ -53,7 +55,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/_mattduran
     label: Follow me on Twitter
     display:
       header: true
@@ -62,10 +64,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mattduran12
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/matthew-dur%C3%A1n-5a95031a1/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +76,10 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mduran29@asu.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Matthew Durán is a first-year doctoral student at Arizona State University. His research interests include policing, corrections, and quantitative research methods.
 {style="text-align: justify;"}
